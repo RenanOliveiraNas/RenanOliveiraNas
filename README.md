@@ -2,6 +2,8 @@
 
 Brazilian, Front-end Developer, Coffee lover, I like clean codes and good practices.
 
+In search of new experiences and opportunities. 🚀
+
 <div style="display: inline_block"><br>
   <h3>🛠️Languages and Tools🛠️:</h3>
   <img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +15,7 @@ Brazilian, Front-end Developer, Coffee lover, I like clean codes and good practi
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div align="left">
+<div align="left"><br>
   <h3>📊GitHub Stats📊:</h3>
   <a href="https://github.com/RenanOliveiraNas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanOliveiraNas&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
