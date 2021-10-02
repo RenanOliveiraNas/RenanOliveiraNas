@@ -1,6 +1,6 @@
-### Olá! Sejam bem-vindos ao meu perfil. 👋
+### Hello, world (literally). Welcome to my profile. 👋
 
-Front-end Developer, Coffee lover, I like clean codes and good practices.
+Brazilian, Front-end Developer, Coffee lover, I like clean codes and good practices.
 
 <div style="display: inline_block"><br>
   <h3>🛠️Languages and Tools🛠️:</h3>
