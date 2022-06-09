@@ -2,10 +2,10 @@
 
 Brazilian,IT Student, Coffee lover, I like clean codes and good practices.
 
-🎯I have experience with JavaScript & React
-🎯I have experience with SQL Server e MySQL
-🎯I have experience with Java
-🎯I have experience with GIT/GITHUB
+🎯I have experience with JavaScript & React 
+🎯I have experience with SQL Server e MySQL 
+🎯I have experience with Java 
+🎯I have experience with GIT/GITHUB 
 
 In search of new experiences and opportunities. 🚀
 
