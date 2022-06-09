@@ -1,6 +1,6 @@
 ### Hello, world (literally). Welcome to my profile. 👋
 
-Brazilian,IT Student, Coffee lover, I like clean codes and good practices.
+Brazilian, IT Student, Coffee lover, I like clean codes and good practices.
 
 🎯I have experience with JavaScript & React 
 🎯I have experience with SQL Server e MySQL 
