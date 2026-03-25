@@ -2,41 +2,30 @@
 
 ### Analytics Engineer | Analista de Dados Sênior | Data Engineering & Automation
 
-Sou um profissional focado na intersecção entre **Engenharia de Software** e **Engenharia de Dados**. [cite_start]Minha missão é construir infraestruturas robustas que transformam volumes complexos de dados em decisões estratégicas e lucrativas[cite: 2, 7]. 
+[cite_start]Sou um profissional focado na interseção entre **Engenharia de Software** e **Engenharia de Dados**. [cite: 2, 23, 26] [cite_start]Minha missão é construir infraestruturas robustas que transformam volumes complexos de dados em decisões estratégicas e lucrativas. [cite: 2, 7]
 
-[cite_start]Atualmente, estou me especializando em **Engenharia de Dados** e cursando **Engenharia de Software**, unindo automação com IA (n8n/Gemini) para elevar a eficiência operacional em ecossistemas de Big Data[cite: 23, 26, 7].
+[cite_start]Atualmente, estou me especializando em **Engenharia de Dados** (Alura) e cursando **Engenharia de Software** (Estácio), unindo automação com IA (n8n/Gemini) para elevar a eficiência operacional em ecossistemas de Big Data. [cite: 23, 26, 7]
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-**Data Engineering & Pipelines**
+[cite_start]**Data Engineering & Pipelines** [cite: 38, 39]
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-**Visualização & Business Intelligence**
+[cite_start]**Visualização & Business Intelligence** [cite: 40]
 * ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
-**Automação & Orquestração**
+[cite_start]**Automação & Orquestração** [cite: 41]
 * ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Impacto e Resultados Recentes
+### 🚀 Impacto e Resultados Recentes (STAR)
 
-* [cite_start]**Daki:** Arquitetei pipelines end-to-end escalando a capacidade de cadastro de 6 para mais de **100 produtos/dia** e eliminei mais de 1.600 chamados de suporte via self-service BI[cite: 7, 9].
-* [cite_start]**iFood:** Reestruturei a segmentação de leads B2B aumentando a **taxa de conversão em 32%** e garantindo o atingimento de 117% da meta do time comercial[cite: 13, 15].
-* [cite_start]**GRB/Itaú:** Conquistei o **1º lugar no ranking do Itaú** por 3 trimestres consecutivos através de inteligência analítica e automação de mailings[cite: 19].
-
----
-
-### 📊 Estatísticas
-
-<div align="left">
-  <a href="https://github.com/RenanOliveiraNas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanOliveiraNas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanOliveiraNas&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+* [cite_start]**Daki:** Arquitetei pipelines integrando Snowflake e Salesforce, escalando a capacidade de cadastro de 6 para mais de **100 produtos/dia** e eliminando 1.600 chamados de suporte em 7 meses via self-service BI no Looker. [cite: 7, 9]
+* [cite_start]**iFood:** Reestruturei a segmentação de leads B2B usando SQL no Databricks, aumentando a **taxa de conversão em 32%** e garantindo o atingimento de **117% da meta** comercial. [cite: 13, 14, 15]
+* [cite_start]**GRB/Itaú:** Conquistei o **1º lugar no ranking do Itaú** por 3 trimestres consecutivos através de inteligência analítica e automação de mailings via SQL Server. [cite: 19, 20]
 
 ---
 
