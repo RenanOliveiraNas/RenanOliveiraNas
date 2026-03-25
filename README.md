@@ -1,4 +1,4 @@
-# Olá, eu sou o Renan Oliveira 👋
+# Olá, eu sou o Renan Oliveira!
 
 ### Analytics Engineer | Analista de Dados Sênior | Data Engineering & Automation
 
