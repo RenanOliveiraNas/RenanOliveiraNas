@@ -4,7 +4,7 @@
 
 Sou um profissional focado na interseção entre **Engenharia de Software** e **Engenharia de Dados**. Minha missão é construir infraestruturas robustas que transformam volumes complexos de dados em decisões estratégicas e lucrativas. 
 
-Atualmente, estou me especializando em **Engenharia de Dados** e cursando **Engenharia de Software**, unindo automação com IA (n8n/Gemini/claude) para elevar a eficiência operacional em ecossistemas de Big Data.
+Atualmente, estou me especializando em **Engenharia de Dados** e cursando **Engenharia de Software**, unindo automação com IA (n8n/Gemini/Claude) para elevar a eficiência operacional em ecossistemas de Big Data.
 
 ---
 
@@ -17,7 +17,7 @@ Atualmente, estou me especializando em **Engenharia de Dados** e cursando **Enge
 * ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 **Automação & Orquestração**
-* ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-7B002A?style=for-the-badge&logo=anthropic&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -45,4 +45,4 @@ Atualmente, estou me especializando em **Engenharia de Dados** e cursando **Enge
 * [LinkedIn](https://linkedin.com/in/renanoliveiranas/)
 * [E-mail](mailto:contatorenanoliveira3@gmail.com)
 
-"Do banco de dados à arquitetura da aplicação: transformando dados em valor."
+Estou em busca de desafios onde possa aplicar essa visão ponta a ponta: da extração e modelagem no Data Warehouse até a entrega de valor na ponta para o negócio.
