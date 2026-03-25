@@ -4,7 +4,7 @@
 
 Sou um profissional focado na interseção entre **Engenharia de Software** e **Engenharia de Dados**. Minha missão é construir infraestruturas robustas que transformam volumes complexos de dados em decisões estratégicas e lucrativas. 
 
-Atualmente, estou me especializando em **Engenharia de Dados** e cursando **Engenharia de Software**, unindo automação com IA (n8n/Gemini) para elevar a eficiência operacional em ecossistemas de Big Data.
+Atualmente, estou me especializando em **Engenharia de Dados** e cursando **Engenharia de Software**, unindo automação com IA (n8n/Gemini/claude) para elevar a eficiência operacional em ecossistemas de Big Data.
 
 ---
 
